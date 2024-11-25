@@ -5,32 +5,38 @@ import Link from "next/link";
 function Content6() {
 
   return (
-    <div className="h-[1220px] flex w-full bg-gradient-to-b from-[#720000] to-[#330F0F] justify-center items-center pt-16">
+    <div className="h-[1000px] flex w-full bg-gradient-to-b from-[#720000] to-[#330F0F] justify-center items-center pt-16">
       <div className="w-[1100px] h-full flex flex-col gap-10 items-center justify-center text-white text-center">
         <p className="text-2xl smm:text-xl font-semibold">O QUE VOCÊ VAI TER ACESSO</p>
 
         <div className="flex flex-col gap-5 justify-center items-center">
-          <Card text="7 aulas ao vivo" icon={"\\images\\icon1.png"} />
+        
           <Card text="Cursos gravados" icon={"\\images\\icon2.png"} />
           <Card text="Acesso por 2 anos" icon={"\\images\\icon3.png"} />
-          <Card text=" 40 dias de mentoria" icon={"\\images\\icon4.png"} />
-          <Card text="Grupo exclusivo no WhatsApp com mentora" icon={"\\images\\icon5.png"} />
+        
           <Card text="Meditações guiadas" icon={"\\images\\icon6.png"} />
           <Card text="Biblioteca com materiais complementares" icon={"\\images\\icon7.png"} />
 
+          <div className="w-[400px] h-10 mt-10 border border-yellow bg-vermelho flex items-center justify-center p-2 smm:w-[300px]">
+  <p className="font-bold text-3xl relative">
+    DE R$864
+    <span className="absolute top-1/2 left-[-10px] w-40 h-[2px] bg-yellow transform -translate-y-1/2"></span>
+  </p>
+</div>
 
-          <div className="font-semibold text-xl mt-6">POR APENAS</div>
+
+          <div className="font-semibold text-xl mt-2">POR APENAS</div>
           <div className='w-[400px] h-[170px] border border-yellow bg-vermelho flex items-center justify-center p-2 smm:w-[300px]'>
 
             <div className="h-full flex justify-end items-end mb-10">
               <p className="font-semibold text-4xl">R$</p>
             </div>
             <div className="flex flex-col">
-              <p className="font-semibold text-2xl mb-[-15px]">12x de</p>
-              <p className="font-semibold text-9xl">86</p>
-              <p className="font-light mt-[-10px] text-xs">ou R$864 à vista</p>
+              <p className="font-semibold text-2xl mb-[-15px]">10x de</p>
+              <p className="font-semibold text-9xl">24</p>
+              <p className="font-light mt-[-10px] text-xs">ou R$247 à vista</p>
             </div>
-            <p className="font-semibold text-3xl">,40</p>
+            <p className="font-semibold text-3xl">,70</p>
           </div>
 
           <Link href="https://chk.eduzz.com/E0DBPGNY91" id="alvo" target="blank">

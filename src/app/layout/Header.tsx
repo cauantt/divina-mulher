@@ -20,7 +20,7 @@ function Header() {
               <h1 className="text-white font-extralight  w-[420px] sr:w-[100%] lg:w-[300px]">
               Uma jornada de profundo autoconhecimento, onde você será guiada por temas como sexualidade feminina, fertilidade, prosperidade, feminilidade, autoestima, poder pessoal e os códigos do tempo. Tudo para ajudar você a expandir suas fronteiras e se conectar com sua essência divina.
               </h1>
-              <Link href="#alvo"><button className="h-10 w-72 bg-white rounded-lg font-semibold cursor-pointer">Quero me desenvolver</button></Link>
+              <Link href="#alvo"><button className="h-10 w-72 bg-white rounded-lg font-semibold cursor-pointer">Aproveitar Black Friday</button></Link>
           </div>
 
         </div>

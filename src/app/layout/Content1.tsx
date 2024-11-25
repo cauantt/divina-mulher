@@ -9,14 +9,7 @@ function Content1() {
 
 
 <div className='flex flex-col justify-center items-center gap-10'>
-    <div className="flex flex-col w-[1000px] h-[200px] p-3 px-6 bg-transparent border-2 border-red-900 rounded-r-[60px]  items-start  justify-center macc:h-[470px] macc:w-80">
-      <h2 className="text-center text-lg font-bold text-red-900 mb-4">COMO FUNCIONA?</h2>
-      <p className="text-gray-700 ">
-      Ao se inscrever, você terá acesso
-    às minhas aulas gravadas, com conteúdo poderoso e transformador, disponível por até 2 anos. Além disso, realizaremos encontros ao vivo via Zoom, previamente agendados, onde poderemos aprofundar temas e compartilhar experiências. Para apoiar essa jornada, haverá um grupo exclusivo no WhatsApp para trocas e partilhas com as outras alunas, criando uma rede de apoio sólida. E ainda, você terá acesso à nossa biblioteca de conteúdos complementares para enriquecer sua jornada de autodesenvolvimento.
-    
-      </p>
-    </div>
+   
 
 
    

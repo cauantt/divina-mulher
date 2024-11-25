@@ -33,8 +33,7 @@ export default function Home() {
         alt="Rosa"
       />
 
-      <Content2/>
-
+     
       <img
         src="/images/rosa.png"
         className="w-[580px] absolute top-[1850px] -right-40 z-10 lgg:w-[300px] lgg:top-[2000px] lgg:-right-20 rss:hidden"
@@ -50,7 +49,7 @@ export default function Home() {
       />
 
       <Content3/>
-      <Content4/>
+      
       <Content5/>
       <Content6/>
 

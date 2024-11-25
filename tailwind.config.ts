@@ -13,7 +13,9 @@ const config: Config = {
         'sm': {'max': '677px'}, // máximo até 639px
         'ms': {'min': '1360px'}, // máximo até 639px
         'md': {'max': '590px'}, // máximo até 767px
+        'mdd': {'max': '500px'}, // máximo até 767px
         'lg': {'max': '729px'},
+        'lgm': {'max': '870px'},
         'mac': {'max': '1202px'}, // máximo até 1023px
         'macc': {'max': '1050px'}, // máximo até 1023px
         'rs': {'max': '1322px'}, // máximo até 1279px
